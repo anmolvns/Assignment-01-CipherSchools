@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.cipher_schools">
    <application
-        android:label="cipherschools"
-        android:name="cipherschools"
+        android:label="cipher_schools"
+        android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
